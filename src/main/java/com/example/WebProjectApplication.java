@@ -24,7 +24,7 @@ public class WebProjectApplication {
                 "</head>" +
                 "<body style='text-align:center; background-color:#f0f8ff;'>" +
                 "    <h1 style='color: #4CAF50;'>Welcome to <span style='color: #00008B;'>CloudFolks HUB</span>!</h1>" +
-                "    <p style='font-size:20px; color: #555;'>Empowering Your DevOps Journey with jenkins with Love </p>" +
+                "    <p style='font-size:20px; color: #555;'>Empowering Your DevOps Journey with jenkins with Love Final </p>" +
                 "    <form method='post' action='/submit' style='margin-top:20px;'>" +
                 "        <label for='name'>Name:</label><br>" +
                 "        <input type='text' id='name' name='name' required><br><br>" +
